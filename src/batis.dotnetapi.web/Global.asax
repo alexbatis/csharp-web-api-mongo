@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="batis.dotnetapi.web.WebApiApplication" Language="c#" %>
